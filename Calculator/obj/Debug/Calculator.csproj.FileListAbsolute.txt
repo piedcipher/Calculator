@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe.manifest
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.application
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.exe.manifest
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.application
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Debug\Number System Converter.exe.config

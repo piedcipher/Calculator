@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\MaterialSkin.dll
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number_System_Converter.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.exe
+c:\users\dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.exe.manifest
+C:\Users\Dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\bin\Debug\Number System Converter.application
+C:\Users\Dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.exe.manifest
+C:\Users\Dell\documents\visual studio 2013\Projects\Number System Converter\Number System Converter\obj\Debug\Number System Converter.application
